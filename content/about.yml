@@ -13,15 +13,9 @@ pages:
 
 paragraphs:
     - paragraph: |
-        Hello, my name is Denton Liu and I am a student studying Software Engineering at the University of Waterloo! As a developer, I have an interest in embedded systems, security and back-end development. And I hate front-end development.
+        Hello, my name is Denton Liu and I am a student studying Software Engineering at the University of Waterloo! As a developer, I have a wide breadth of experience in many fields, including embedded development, security, DevOps, cryptocurrencies and Big Data, with job experience to back it up. Also, I hate front-end development.
     - paragraph: |
-        In Winter 2017, I worked at <a href="http://cask.co/">Cask Data</a> in Palo Alto, California. At Cask, I was responsible for improving and fixing bugs on <a href="http://cask.co/products/cdap/">CDAP</a>. In addition to this, I worked on some other smaller projects, including implementing an optimiser for Cask Wrangler which removed any unnecessary steps to speed up execution.
-    - paragraph: |
-        In Spring 2016, I got a chance to work in Toronto, Ontario at <a href="https://ledgerlabs.com/">Ledger Labs</a> with some talented people. Notably, I met Vitalik Buterin. While I was there, I got a chance to work with bleeding-edge blockchain technology. In particular, I was implemented state-channels in Solidity, which is the programming language for the Ethereum platform. In addition to this, I was contributed to many new open-source Ethereum projects including the <a href="https://github.com/ethereum/solidity">Solidity compiler</a>, <a href="https://github.com/ethereum/solc-js">solc-js</a> and <a href="https://github.com/ethereumjs/testrpc">testrpc</a>. I'm glad I was able to contribute to Ethereum while the technology was still emerging!
-    - paragraph: |
-        In my spare time, I have been trying to learn about kernels so I've been implementing my own: <a href="https://github.com/Denton-L/musikernel">musikernel</a>. This kernel will eventually allow someone to play their computer like a musical keyboard through the PC speaker.
-    - paragraph: |
-        When I am not programming, you can probably find me unicycling. When I was in grade seven, I wanted a Segway, but my parents obviously weren't going to buy one for me. Somehow, I talked them into getting me a unicycle instead and I have been riding one ever since. In addition to this, music is a big part of my life. I play piano, cello and the double bass.
+        When I'm not programming, you can probably find me unicycling.
     - paragraph: |
         If you're interested, please check out my résumé <a href="/resume/DentonLiuResume.pdf">here</a>!
 ---
